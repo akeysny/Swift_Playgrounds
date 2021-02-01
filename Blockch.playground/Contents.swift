@@ -197,7 +197,7 @@ let genesisBlock = Block()
 let blockchain = Blockchain(genesisBlock: genesisBlock)
 //Let's create a transaction now
 
-let transaction = Transaction(from: "Mary", to: "John", amount: 10, transactionType :.international)
+let transaction = Transaction(from: "Mary", to: "John", amount: 10, transactionType :.domestic)
 print("-------------------------------------------------")
 
 let block = blockchain.getNextBlock(transactions: [transaction])

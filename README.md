@@ -25,3 +25,8 @@ Calculations that are done below the horizontal line are for the block #1 that c
 This is the overview of how the blockchain actually works.
 
 <img src="http://g.recordit.co/234lJbcbz0.gif" width=250><br>
+
+Implementing Smart Contracts
+
+<img src="http://g.recordit.co/FfFND3VEPL.gif" width=250><br>
+
